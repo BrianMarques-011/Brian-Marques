@@ -1,6 +1,31 @@
-# Brian-Marques
-Olá, sou um estudante de programação e tecnologias, estou no curso de Desenvolvimento de Sistemas, sempre fui fascinado por computadores e programação. Estou em busca de melhorar as minhas habilidades e adquirir conhecimento
+# 👋 Olá, eu sou o Brian Marques
 
-Python | Desenvolvimento de Sistemas | Etec
+💻 Estudante de programação e tecnologias  
+🎓 Curso: Desenvolvimento de Sistemas - ETEC  
 
-https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BODjhce0XSXCu4CJNH4KhkA%3D%3D
+Sempre fui fascinado por computadores e programação.  
+Atualmente estou em busca de melhorar minhas habilidades, aprender novas tecnologias e desenvolver projetos que me ajudem a crescer na área de tecnologia.
+
+
+
+## 🚀 Tecnologias e Áreas de Interesse
+
+- Python
+- Desenvolvimento de Sistemas
+- Lógica de Programação
+- Tecnologia e Inovação
+
+
+
+## 📚 Atualmente estudando
+
+- Programação em Python
+
+
+
+
+## 🌐 Conecte-se comigo
+
+🔗 LinkedIn  
+(https://www.linkedin.com/in/brian-richardy-marques-soares-6b99a1283/)
+
